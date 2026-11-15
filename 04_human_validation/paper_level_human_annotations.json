@@ -1,0 +1,3002 @@
+[
+  {
+    "DOI": "10.1126/science.aai8185",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-025-09265-8",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2022.10.004",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-03724-8",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2015.10.063",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1184192",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2017.07.020",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1245833",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature11165",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature07179",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aax7890",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2012.01.041",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abd4453",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2014.01.062",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature03606",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2008.09.045",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature10276",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature06212",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature08016",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1177218",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature11987",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aan5630",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1220527",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04475-w",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1218781",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-08390-0",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aao0666",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2022.04.020",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1551-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1536-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-05585-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaf4914",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature07997",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aaf7003",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abm0271",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1543-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04986-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature11742",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.add1964",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aax4380",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aaf2288",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0492-5",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-025-09231-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05281",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2021.06.001",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature07685",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abn9859",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2020.04.020",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature09593",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abh3602",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2024.08.010",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature24482",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2014.02.056",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2009.10.010",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaa2208",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2012.12.006",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2024.03.023",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2022.05.013",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aad4225",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aay7108",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1206871",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaa6071",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2020.10.037",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-05221-y",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0339-0",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abb9554",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04649-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-03403-8",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04753-7",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-08475-w",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2018.03.026",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04778-y",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.ado5915",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-03386-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0568-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2006.07.025",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1183-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1110730",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abn8997",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aab3050",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature22053",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06007-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-025-09157-x",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05802",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2014.03.024",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature14166",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07793-3",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-2809-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-025-09279-2",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-05747-9",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1106977",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1253057",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2009.07.017",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2019.04.015",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-04241-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1476-9",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature08620",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1147724",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature12303",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05506",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature07770",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1207785",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04724-y",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature17200",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0386-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1254198",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature17634",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature17940",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2015.03.025",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aaf5039",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0157-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature13200",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adq1456",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2016.04.034",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2021.05.001",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1140762",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature15374",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature10928",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature07422",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2021.02.032",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06510-w",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1164571",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature20554",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.add7859",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-2482-7",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.adf3824",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aau9072",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature20591",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1152763",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aay7794",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05055",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07421-0",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1126119",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature25012",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1159978",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1136386",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2024.06.019",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2020.02.026",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature04000",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2009.06.013",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0453-z",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-05543-x",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1188658",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2007.08.049",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abd3072",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aan2395",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aax0848",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2020.11.029",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2022.07.014",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2024.03.020",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaf2807",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature11463",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2009.11.004",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature11396",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2006.01.048",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1166859",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature07723",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-03772-0",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-04037-6",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06631-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1549-9",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaa4181",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2006.06.036",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature06510",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2022.10.019",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature09354",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature25189",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1192065",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2012.06.040",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature22972",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature11153",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2005.12.040",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-05425-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-05739-9",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2024.10.022",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature04370",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2020.12.026",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature25173",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature20576",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aav7541",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1160952",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2006.02.047",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature16990",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1186146",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature17434",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2017.10.041",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1174-7",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07872-5",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aas8843",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06953-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1495-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aal1807",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0476-5",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2013.02.007",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature03904",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-05995-9",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature09317",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2018.09.004",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1217313",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2005.08.014",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.add5787",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05433",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2017.09.046",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature09258",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0765-z",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1223702",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0462-y",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2009.07.041",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-08328-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaf3165",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.ade8840",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2018.10.004",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature22369",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-2170-7",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-03676-z",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-08313-z",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature07485",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2019.05.023",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aaz7959",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06924-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.ade4995",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07972-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature12634",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaa1668",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04803-0",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1178338",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature10674",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature06809",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature04447",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.adg2565",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1124511",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature09751",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aao4555",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1117702",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2017.06.015",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2018.10.016",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2016.09.055",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature13258",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06095-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abb8880",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature06321",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2018.09.012",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature08320",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature04389",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1248676",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature22354",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature09057",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-1947-z",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2013.05.015",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature20819",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature06239",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2012.07.019",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abd0811",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-05804-3",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aax4468",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature14625",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0781-z",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1251306",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2019.03.010",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1172460",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-0972-2",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aan0038",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature10660",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06114-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2015.11.013",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.add4667",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature03299",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aax0379",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature08498",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aat5397",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2020.12.002",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0257-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07787-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature09094",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aan3997",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-2248-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-08130-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaf2649",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1196830",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adt3971",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07158-w",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature13290",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature07229",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-025-09104-w",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adk1281",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adk1183",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aag0833",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abp9201",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abo5672",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2010.12.001",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-03084-9",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature10095",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07573-z",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2010.06.003",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1117705",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature22045",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1166562",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2007.08.048",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-025-08595-x",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-2264-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2017.09.028",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2024.09.039",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2015.12.048",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06981-x",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1197410",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aau2909",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2018.03.069",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adq2852",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05577",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature17949",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adk5901",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1207794",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2023.06.002",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaw8205",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adl3369",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1150683",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2019.09.008",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-05657-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1198949",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0281-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2010.11.042",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-05449-8",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1211688",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1252876",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2015.02.001",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature10909",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04545-z",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature04534",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2015.03.003",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1221936",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature16967",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2005.07.034",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06345-5",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature10226",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature14966",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2017.04.012",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1166426",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature06521",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature03370",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abc1560",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06902-y",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.ado9032",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0122-2",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1256101",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-025-08722-8",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.abb4776",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature21033",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07862-7",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature21722",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04471-0",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2012.12.019",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature12977",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04878-9",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0500-9",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature24650",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature04587",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1260279",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature09007",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature05804",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aax3528",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature09347",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-08103-7",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0331-8",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature06890",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.add5751",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature16060",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-04042-9",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature05017",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2010.09.026",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaz3893",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1140324",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0710-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1234781",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature11997",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07722-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1681-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2020.10.025",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07191-9",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2012.06.045",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature12172",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adk8755",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2009.05.025",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-08098-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature03489",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-2212-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2022.05.007",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2005.07.017",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature14561",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1200803",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2006.05.049",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature06161",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06775-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06392-y",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0593-1",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2014.03.059",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adg6635",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature15521",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature09520",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature14113",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2020.09.049",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature20818",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1260200",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1241791",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature25486",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-04056-3",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abc7424",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05699",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06083-8",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature06159",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2025.03.028",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07101-z",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.adg8392",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aan4428",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aay8015",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1170116",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature09714",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1132067",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature15263",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-08089-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-03465-8",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2018.05.022",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2010.07.012",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aar8313",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2005.08.001",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature06974",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abm1183",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2013.08.018",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05018",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aam9175",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04983-9",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abb7015",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1218757",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2022.08.004",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07583-x",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-021-03681-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature13846",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-2007-4",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aan2399",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-05044-x",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2015.05.010",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07300-8",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06420-x",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adh0614",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2019.04.001",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature04750",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2013.11.016",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature09576",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1176950",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature09907",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1193440",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature04764",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature05670",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature07524",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aav6821",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adj1082",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.1171200",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature25980",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07054-3",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aab2666",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-025-08881-8",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aaf4374",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1112121",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature25784",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.aaf6284",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1144735",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aao3526",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aar5703",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06623-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-022-04538-y",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature05637",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature09694",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.adr8612",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07291-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-019-0877-0",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aap9516",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2019.03.012",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2013.05.046",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1250169",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2011.08.023",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2021.07.003",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature04230",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-1994-5",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature22978",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abb6105",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1126/science.1160158",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature14172",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/nature08885",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.aaf3700",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature12465",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2006.08.051",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2018.04.035",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-024-07740-2",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2017.10.043",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-018-0260-6",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature06888",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1016/j.cell.2009.08.039",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1126/science.abe7565",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/s41586-023-06240-z",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  },
+  {
+    "DOI": "10.1038/nature12918",
+    "annotator_A_label": "absence",
+    "annotator_B_label": "absence",
+    "human_consensus_disscussion_label": "absence"
+  },
+  {
+    "DOI": "10.1038/s41586-020-1999-0",
+    "annotator_A_label": "presence",
+    "annotator_B_label": "presence",
+    "human_consensus_disscussion_label": "presence"
+  }
+]
